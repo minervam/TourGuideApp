@@ -1,0 +1,394 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Go Carlsbad</string>
+
+    <!-- Section name for attractions [CHAR LIMIT=20] -->
+    <string name="section_attractions">Attractions</string>
+
+    <!-- Section name for attractions [CHAR LIMIT=20] -->
+    <string name="section_restaurants">Restaurants</string>
+
+    <!-- Section name for attractions [CHAR LIMIT=20] -->
+    <string name="section_beaches">Beaches</string>
+
+    <!-- Section name for attractions [CHAR LIMIT=20] -->
+    <string name="section_shopping">Shopping</string>
+
+    <!-- Section name for attractions [CHAR LIMIT=20] -->
+    <string name="section_sports">Sports</string>
+
+    <!-- Attraction info for Legoland -->
+    <string name="legoland_name">LEGOLAND California Resort</string>
+    <string name="legoland_address">One LEGOLAND Drive, Carlsbad, CA 92008</string>
+    <string name="legoland_description">LEGOLAND® California Resort has more than 60 rides, shows
+        and attractions including the exciting new LEGO® NINJAGO® World! Ninja practice at special
+        training areas to become masters of the ancient art of Spinjitzu. All that training gets put
+        to the test on the stunning new LEGO NINJAGO The Ride. This interactive, cutting-edge,
+        technological marvel allows riders to control animated fireballs, lightning, shockwaves and
+        ice. Harness the power of the elements to defeat the Great Devourer and collect points for
+        ninja status! But that’s not all that’s new for 2016. Emmet, Wyldstyle, Benny, MetalBeard
+        and UniKitty star in The LEGO® Movie™ 4D A New Adventure.\n\nOur heroes, along with the
+        audience, take a trip to a theme park and wind up in an incredible adventure they never
+        expected. It’s an all-new, totally original, never seen before 4D movie and it’s only at
+        LEGOLAND. Inside LEGOLAND, you can enter a world of knights and princesses to conquer the
+        Dragon Coaster. Kids can drive their own cars at Driving School. Make new friends at LEGO
+        Friends Heartlake City. The Resort is also home to the LEGOLAND Water Park featuring the
+        LEGO Legends of CHIMA™ Water Park. Right nelegolaxt door is the wonder-filled SEA LIFE® Aquarium.
+        There’s so much to do, you’ll want to spend the night. The amazing LEGOLAND Hotel has 250
+        rooms and it’s packed with LEGO features.\n\nLEGOLAND California is open daily spring and
+        summer and closed select Tuesdays and Wednesdays during the fall and winter.</string>
+
+    <!-- Attraction info for LEGOLAND Water Park -->
+    <string name="waterpark_name">LEGOLAND Water Park</string>
+    <string name="waterpark_address">One LEGOLAND Drive, Carlsbad, CA 92008</string>
+    <string name="waterpark_description">LEGOLAND California Resort features the world’s first
+        LEGOLAND Water Park. The centerpiece is a 45-foot-tall tower designed to immerse children in
+        the creative world of LEGO. The Water Park also features more than 20 LEGO models including
+        giant LEGO friends who splash or spray water on guests, two sandy beach wading areas, retail
+        shops and snack carts.</string>
+
+    <!-- Attraction info for Sea Life Aquarium -->
+    <string name="sealife_name">SEA LIFE Aquarium</string>
+    <string name="sealife_address">One LEGOLAND Drive, Carlsbad, CA 92008</string>
+    <string name="sealife_description">Merlin’s SEA LIFE® attractions are an ideal, friendly and
+        authoritative guide to the last great frontier…the seas and oceans of the world and their
+        myriad mysterious and amazing inhabitants. Unrivalled display technology, biological
+        expertise and entertainment skills combine to provide seamless journeys through US and
+        tropical waters, and astonishing close encounters with everything from humble shrimps and
+        starfish to seahorses, sharks and stingrays.Tamarack Surf Beach 3900 Carlsbad Boulevard,
+        Carlsbad, CA 92008SEA LIFE® is designed to be a child’s first interactive guide to the life
+        of the sea, combining active, hands-on learning with fascinating educational talks, and
+        opportunities to have up close and personal encounters with a variety of sea creatures. A
+        visit to SEA LIFE® is an experience like no other!</string>
+
+    <!-- Attraction info for Flower Fields -->
+    <string name="flowerfields_name">The Flower Fields at Carlsbad Ranch</string>
+    <string name="flowerfields_address">The Flower Fields at Carlsbad Ranch</string>
+    <string name="flowerfields_description">The Flower Fields at Carlsbad Ranch is a fifty-acre
+        dazzling rainbow of beautiful ranunculus flowers set on a hillside overlooking the striking
+        Carlsbad, California coastline. The outdoor space is idyllic for planning weddings, events
+        and corporate gatherings held among the lush gardens, or you may choose to nestle indoors in
+        our 200-seat Paul Ecke Jr. Barn for special occasions!\n\nWe invite you to enjoy our tractor
+        driven wagon rides, our 1500 square foot greenhouse filled with world famous Ecke
+        poinsettias, the sweet pea maze, Santa’s playground, an orchid greenhouse, and many themed
+        gardens. Throughout the season we also hold special events and music designed for visitors
+        of all ages that is included with admission. Picnic tables are on site and parking is free.
+        \n\nLocated in North San Diego County, a region with a rich history of growing flowers going
+        back to the 1940’s. The Flower Fields at Carlsbad Ranch is located less than one half-mile
+        from the ocean, within five minutes of several prominent hotels and restaurants, and a short
+        drive from two international airports (San Diego and Orange County).</string>
+
+    <!-- Attraction info for Gemological Institute of America (GIA) -->
+    <string name="gia_name">Gemological Institute of America (GIA)</string>
+    <string name="gia_address">5345 Armada Drive, Carlsbad, CA 92008</string>
+    <string name="gia_description">descriptionofattraction Established in 1931 by Robert M. Shipley,
+    the Gemological Institute of America (GIA) in Carlsbad, CA, is the world’s leading authority and
+    educator on diamonds, colored stones, and pearls.\n\nVisitors to the GIA headquarters have an
+    opportunity to learn about the Institute’s world-renowned educational programs, explore gem and
+    jewelry exhibits, visit the Richard T. Liddicoat Gemological Library &amp; Information Center and
+    see the Tower of Brilliance; the world’s largest crystal octahedron.\n\nThe center is dedicated
+    to educating, researching and understanding gemstones, and protecting potential jewelry buyers
+    by setting quality standards on a global level.\n\nTo schedule and individual or group tour to
+    the Gemological Institute of America, please email or call 800-421-7250 ext 4116 or
+    760-603-4116.</string>
+
+    <!-- Attraction info for Museum of Making Music -->
+    <string name="musicmuseum_name">Museum of Making Music</string>
+    <string name="musicmuseum_address">5790 Armada Drive, Carlsbad, CA 92008</string>
+    <string name="musicmuseum_description">The Museum of Making Music is a fun and informative
+        museum that exists to inspire visitors to interactively discover the history of making
+        music, musical instruments and products. At the museum you will travel through time, from
+        1900 to today, exploring the connections among people, instruments, and the music we make…
+        and make some music of your own! A vibrant concert series is ongoing throughout the
+        year!</string>
+
+    <!-- Attraction info for Green Dragon Tavern & Museum  -->
+    <string name="dragontavern_name">Green Dragon Tavern &amp; Museum </string>
+    <string name="dragontavern_address">6115 Paseo Del Norte, Carlsbad, CA 92011</string>
+    <string name="dragontavern_description">Green Dragon Tavern &amp; Museum is the latest major
+        attraction to open in the Carlsbad, CA, area. The 22,000 sq. ft. space will feature a
+        museum, restaurant, tavern, coffee house and meeting space. GDTM creates a welcoming
+        atmosphere for celebrating, remembering and honoring early American history, our founding
+        fathers and their many contributions to our past and modern day society. Offering
+        complimentary admission, the Green Dragon Museum will house documents from the Colonial and
+        Revolutionary War-eras and will provide individuals of all ages with an opportunity to
+        further appreciate our country’s rich history. Additionally, chef de cuisine Greg Krohl has
+        created a menu for Green Dragon Tavern &amp; Museum that reflects “old world” meets “new
+        world” cuisine and features all locally farmed and sustainable ingredients. Diners will have
+        a chance to experience Chef Krohl’s skillful, culinary masterpieces while enjoying the
+        atmosphere, ambiance and historical charm of Green Dragon Tavern &amp; Museum.</string>
+
+    <!-- Attraction info for Leo Carrillo Ranch & Historic Park -->
+    <string name="leocarillo_name">Leo Carrillo Ranch &amp; Historic Park</string>
+    <string name="leocarillo_address">6200 Flying Leo Carillo Lane, Carlsbad, CA 92009</string>
+    <string name="leocarillo_description">Once part of the original 2,538 acre working rancho and
+        vacation retreat of Leo Carrillo (who acted in almost 100 films from 1927 to 1950 and
+        co-starred in the TV series The Cisco Kid) the historic Leo Carrillo Ranch is an
+        extraordinary educational and recreational resource.\n\nThe City of Carlsbad has stabilized,
+        preserved and restored many of the buildings on this 27 acre parcel. Historic structures at
+        Rancho Carrillo Carlsbad include a visitors center, hand-crafted adobe buildings, hacienda,
+        reflecting pool, cabana, cantina, carriage house tack shed, stable, barn and foundry and
+        equipment shed. It can be found on the Citywide Trails System 4-mile long Rancho Carrillo
+        Trail. Self-guided walking tours and 13-minute introductory film give an overview. Guided
+        90-minute walking tours are offered on Saturdays.\n\nLeo Carrillo Ranch is a 27-acre
+        historical park with irregular earthen and paved surfaces, including without limitations,
+        stairs and trails. It is recommended that visitors wear appropriate shoes for the uneven
+        terrain within this historic park.</string>
+
+    <!-- Attraction info for Karl Strauss Brewing Company -->
+    <string name="karlstrauss_name">Karl Strauss Brewing Company</string>
+    <string name="karlstrauss_address">5801 Armada Drive, Carlsbad, CA 92008</string>
+    <string name="karlstrauss_description">Chain brewpub offering American bar food with a gourmet
+        twist alongside house-brewed craft ales.</string>
+
+    <!-- Attraction info for Ignite Bistro & Wine Spot -->
+    <string name="ignitebistro_name">Ignite Bistro &amp; Wine Spot</string>
+    <string name="ignitebistro_address">6996 El Camino Real, Carlsbad, CA 92009</string>
+    <string name="ignitebistro_description">Seafood, wood-fired pizza &amp; steaks paired with a
+        sizable wine list as well as garden patio seating.</string>
+
+    <!-- Attraction info for Pisco Rotisserie & Cevicheria -->
+    <string name="pisco_name">Pisco Rotisserie &amp; Cevicheria</string>
+    <string name="pisco_address">5970 Avenida Encinas, Carlsbad, CA 92008</string>
+    <string name="pisco_description">Modern &amp; traditional Peruvian dishes served in a cheerful
+        space decked out with paper parasols.</string>
+
+    <!-- Attraction info for Casa De Bandini Mexican Restaurant -->
+    <string name="casadebandini_name">Casa De Bandini Mexican Restaurant</string>
+    <string name="casadebandini_address">RestaurantAddress</string>
+    <string name="casadebandini_description">Festive eatery serves classic Mexican cuisine in a
+        colorful dining room with roving mariachi bands.</string>
+
+    <!-- Attraction info for Nozomi Japanese Fusion -->
+    <string name="nozomi_name">Nozomi Japanese Fusion</string>
+    <string name="nozomi_address">3050 Pio Pico Dr, Carlsbad, CA 92008</string>
+    <string name="nozomi_description">Serving Asian fusion plates &amp; sushi amid a zen-line
+        atmosphere complete with bamboo &amp; waterfalls.</string>
+
+    <!-- Attraction info for Pizza Port Brewery & Restaurant -->
+    <string name="pizzaport_name">Pizza Port Brewery &amp; Restaurant</string>
+    <string name="pizzaport_address">571 Carlsbad Village, Carlsbad, CA 92008\n2730 Gateway Road,
+        Carlsbad, CA 92009</string>
+    <string name="pizzaport_description">You can enjoy a cool brew and a Pizza Port special slice in
+        the (nearly always) perfect Carlsbad weather. As their saying goes “Good food and good beer
+        bring good cheer!” </string>
+
+    <!-- Attraction info for Buca di Beppo Carlsbad -->
+    <string name="bucadibeppo_name">Buca di Beppo Carlsbad</string>
+    <string name="bucadibeppo_address">1921 Calle Barcelona, Carlsbad, CA 92009</string>
+    <string name="bucadibeppo_description">Chain serving family-style Italian fare in a kitschy
+        setting featuring red-&amp;-white tablecloths.</string>
+
+    <!-- Attraction info for Campfire -->
+    <string name="campfire_name">Campfire</string>
+    <string name="campfire_address">2725 State St, Carlsbad, CA 92008</string>
+    <string name="campfire_description">Buzzy indoor/outdoor locale serving wood-fired American fare
+        cocktails amid camping decor.</string>
+
+    <!-- Attraction info for Canyons Restaurant -->
+    <string name="canyons_name">Canyons Restaurant</string>
+    <string name="canyons_address">5800 The Crossings Dr., Carlsbad, CA, 92008</string>
+    <string name="canyons_description">Castlelike venue at The Crossings with fine American eats &amp;
+        a patio overlooking the golf course.</string>
+
+    <!-- Attraction info for Cicciotti’s Trattoria Italiana & Seafood -->
+    <string name="ciciottis_name">Cicciotti’s Trattoria Italiana &amp; Seafood</string>
+    <string name="ciciottis_address">595 Grand Avenue, Carlsbad, CA 92008</string>
+    <string name="ciciottis_description">Rustic-chic kitchen in a converted garage, featuring pizzas
+        &amp; hearty Italian meat &amp; seafood entrees.</string>
+
+    <!-- Attraction info for South Ponto Beach -->
+    <string name="ponto_name">South Ponto Beach</string>
+    <string name="ponto_address">Carlsbad Blvd north of La Costa Blvd, Carlsbad, CA</string>
+    <string name="ponto_description">South Ponto Beach is a rare gem in that it is one of the widest
+        beaches in the county and exists in an undeveloped area. Coast Hwy 101 hugs the shoreline
+        here, with Batiquitos Lagoon on the other side of the highway. The beach is a popular family
+        destination, and only one of the few beaches in the area that has public restrooms and
+        showers. South Ponto Beach is secluded with its high sand dunes and tends to have a lot of
+        polished stones washed up during the winter time.</string>
+
+    <!-- Attraction info for Tamarack-State Beach -->
+    <string name="tamarack_name">Tamarack-State Beach</string>
+    <string name="tamarack_address">Carlsbad Blvd &amp; Tamarack Ave, Carlsbad, CA 92008</string>
+    <string name="tamarak_description">Carlsbad State Beach, also known as Tamarack Beach, stretches
+        from the warm water jetties, just south of Tamarack Avenue, to Frazee Beach, near Carlsbad
+        Village Drive.\n\nThe beach is ideal for the family and kids, the state beach offers
+        swimming, surfing, scuba diving, kayaking, windsurfing, fishing and beachcombing. Many
+        people fish off the Carlsbad jetties, both near Tamarack beach and the campgrounds.\n\nThe
+        Carlsbad Seawall, a paved 4-mile walking path along the coast, extends from Carlsbad Village
+        drive to Cannon). The seawall separates The beach from Coast Hwy 101, where you can find
+        people walking, jogging, and cycling. All throughout the day you can see joggers, walkers,
+        cyclists and roller-bladers cruising up and down the path. This is definitely an active
+        city.\n\nCarlsbad State Beach offers an amazing view of the sunset. Every night people
+        gather at the north end of the beach, on the bluff (towards the village) to watch the sun
+        sink into the Pacific Ocean. The palisades and walkway atop the Seawall is another romantic
+        spot for watching the sunset and enjoying the ocean view.</string>
+
+    <!-- Attraction info for South State Beach -->
+    <string name="statebeach_name">South State Beach</string>
+    <string name="statebeach_address">7106 Carlsbad Blvd, Carlsbad, CA 92011</string>
+    <string name="statebeach_description">South Carlsbad State Beach extends from Palomar Airport
+        oad to La Costa Ave. Unlike Carlsbad State Beach to the north, this beach has few amenities,
+        except for the campgrounds, and is rather remote. Popular activities include swimming,
+        surfing, skin diving, fishing and picnicking, and sunbathing. Good quality sand makes this
+        beach ideal for walking and jogging.</string>
+
+    <!-- Attraction info for North Carlsbad Beaches -->
+    <string name="northbeach_name">North Carlsbad Beaches</string>
+    <string name="northbeach_address">2499 Ocean Street, Carlsbad, CA 92008</string>
+    <string name="northbeach_description">These beaches stretch from Oceanside border to Pine Ave,
+        near Carlsbad Village. Jointly owned by the state and the coastal property owners along that
+        stretch, north Carlsbad beaches are open to the public. However, they do not have any
+        lifeguard services, restrooms, showers or other amenities. These north beaches can be
+        accessed at Carlsbad Village Drive, Grand Avenue, Christiansen Way, Beech Ave and Rue des
+        Chateaux.</string>
+
+    <!-- Attraction info for Terramar Beach -->
+    <string name="terramar_name">Terramar Beach</string>
+    <string name="terramar_address">5399 County Highway S21, Carlsbad, CA 92008</string>
+    <string name="terramar_description">Terramar is located South of the Carlsbad Power plant and
+        North of Palomar Airport Road. This quaint and somewhat hidden beach is a great spot for
+        local surfers to catch a wave. There are no public restrooms at the beach or within walking
+        distance of the beach. Though there aren’t lifeguards on duty, lifeguards do patrol the area
+        in their vehicles.</string>
+
+    <!-- Attraction info for Carlsbad Premium Outlets -->
+    <string name="premiumoutlets_name">Carlsbad Premium Outlets</string>
+    <string name="premiumoutlets_address">5620 Paseo del Norte, Carlsbad, CA 92008</string>
+    <string name="premiumoutlets_description">Savvy shoppers know to visit Carlsbad Premium Outlets
+        when they’re in North San Diego County. This beautiful outdoor shopping center in Carlsbad
+        offers an exciting collection of 90 designer and name-brand outlet stores including Barneys
+        New York Warehouse, Coach, Elie Tahari, Kate Spade New York, Michael Kors, Nike Factory
+        Store and many more, all offering savings of 25% to 65% every day.\n\nConveniently located
+        near LEGOLAND California Resort, the beautiful beaches and campgrounds of South Carlsbad,
+        the outlets offers something for everyone in your group. Enjoy the sunshine and shopping,
+        and be sure to stop into one of the many restaurants conveniently located throughout the
+        center. Whether you’re in the mood for a quick snack or a leisurely meal, you will also find
+        an array of delicious dining options at the center.\n\nLocated just east of I-5 off Palomar
+        Airport Road, Carlsbad Premium Outlets is the premier shopping destination in North San
+        Diego County.</string>
+
+    <!-- Attraction info for The Forum At Carlsbad -->
+    <string name="theforum_name">The Forum At Carlsbad</string>
+    <string name="theforum_address">1923 Calle Barcelona, Carlsbad, CA 92013</string>
+    <string name="theforum_description">The Forum Carlsbad is one of these “new-style” outdoor
+        malls. At the Forum Carlsbad, you’ll find elegant architecture punctuated by decorative
+        accents. Flowers in a range of pretty pastel colors fill festive ceramic flower pots. Trees
+        and greenery grow in the center’s medians and along the sidewalks. Brilliantly-hued
+        umbrellas shade guests relaxing as they dine in outdoor patio settings. Gentle breezes
+        caress shoppers strolling along from one store to another.\n\nThis pleasant setting is a
+        great place to shop, enjoy a meal, or just drink-in the atmosphere. When you’re weary of the
+        hustle &amp; bustle of larger malls in the area, the Forum Carlsbad makes a fun place to
+        head for a change of pace to relax &amp; unwind.</string>
+
+    <!-- Attraction info for The Shoppes at Carlsbad -->
+    <string name="theshoppes_name">The Shoppes at Carlsbad</string>
+    <string name="theshoppes_address">2525 El Camino Real #100, Carlsbad, CA 92008</string>
+    <string name="theshoppes_description">We see more than a mall. We see the center of a community.
+        At The Shoppes at Carlsbad, we are committed to creating a mall experience that meets the
+        ever-changing needs of our community.\n\nThe Shoppes at Carlsbad is undergoing a multi-phase
+        renovation of its interiors and streetscapes to transform and enhance the shopping, dining,
+        and entertainment destination to better serve Carlsbad residents, nearby Oceanside
+        community, and the greater North County San Diego area. The Shoppes at Carlsbad’s modernized
+        new design aesthetic will capture Carlsbad’s beach-centric lifestyle with the addition of
+        contemporary coastal living-inspired architectural elements, including weather wood accents,
+        natural stone, woven textiles and native plants</string>
+
+    <!-- Attraction info for Carlsbad Village Art & Antique Mall -->
+    <string name="antiquemall_name">Carlsbad Village Art &amp; Antique Mall</string>
+    <string name="antiquemall_address">2752 State Street, Carlsbad, CA 92008</string>
+    <string name="antiquemall_description">Carlsbad Village Art and Antique Mall is located in
+        downtown Carlsbad. It offers art, antiques, decor and gifts. Customers have the option buy,
+        sell, consign, or auction. Estate liquidations also happen here. There is a little something
+        for everyone and every taste from Asian antiques to European, Californian and American
+        fferings. Pricing is reasonable and the dealers are always willing to make a deal.</string>
+
+    <!-- Attraction info for Village Faire -->
+    <string name="villagefaire_name">Village Faire</string>
+    <string name="villagefaire_address">300 Carlsbad Village Drive, Carlsbad, CA 92008</string>
+    <string name="villagefaire_description">Welcome to the Village Faire Shopping Center, located in
+        the heart of the historic village of Carlsbad, California near the corner of Carlsbad
+        Boulevard and Carlsbad Village Drive.\n\nWith its New England-style architecture with a
+        Caribbean flare, this enclave of over 33 restaurants, shops and services surrounds a
+        pleasant fountain courtyard with plenty of benches for relaxing.</string>
+
+    <!-- Attraction info for Carlsbad Village Association -->
+    <string name="villageassoc_name">Carlsbad Village Asociation</string>
+    <string name="villageassoc_address">2579 State Street, Suite B, Carlsbad, CA 92008</string>
+    <string name="villageassoc_description">The Carlsbad Village Association began in the late 70’s
+        as the Village Merchants Association and was established as a non-profit corporation,
+        Carlsbad Village Business Association in 1994. From the beginning its purpose was to promote
+        and support the businesses located in the vicinity of Carlsbad Village.\n\nIn July of 2009,
+        The Carlsbad Village Business Association and the Carlsbad Village Improvement Partnership
+        consolidated their two boards to create the Carlsbad Village Association. The CVA’s goals
+        have broadened to reach the community at large in an effort to create a true community
+        through business and residential involvement.\n\nCVA membership is open to a wide and
+        diverse population, both business and residential. Most businesses in the Village are
+        owner-operated, creating a more personal and inviting experience every time you visit. Warm
+        smiles and friendly service will always welcome you to Carlsbad Village.</string>
+
+    <!-- Attraction info for Carlsbad Marathon -->
+    <string name="marathon_name">Carlsbad Marathon</string>
+    <string name="marathon_address">6116 Innovation Way, Carlsbad, CA 92009</string>
+    <string name="marathon_description">Carlsbad is a winter marathon and half marathon unlike any
+        other. From our ideal weather conditions to our spectacular coastal course, our award
+        winning event will wow you.\n\nOur 26 fully staffed course support stations, continuous
+        entertainment and unsurpassed volunteer support are just a few of our outstanding features.
+        We also offer each participant a technical fabric shirt, goodie bag, spectacular finisher’s
+        medal and more. Our boutique-style event with an emphasis on quality and individual service
+        sets us apart from the mega marathons.</string>
+
+    <!-- Attraction info for Carlsbad Triathlon -->
+    <string name="carlsbadtriathlon_name">Carlsbad Triathlon</string>
+    <string name="carlsbadtriathlon_address">Tamarack Surf Beach\n3900 Carlsbad Boulevard,
+        Carlsbad, CA 92008</string>
+    <string name="carlsbadtriathlon_description">Carlsbad Triathlon ranks in the world’s top 5
+        longest running triathlons. It is a sprint distance race, consisting of a 1K open-water
+        ocean swim, 25K bike and 5K run. The course begins at Tamarack Surf Beach, and follows the
+        coastline of Carlsbad, past our scenic beaches, lagoons and wildlife preserve. It boasts an
+        ocean swim, a rolling bike course and a smooth run for the finish.\n\nThis race is for
+        everybody from first-timers to the elites, and their friends and family! The race begins
+        with a 1K open-water ocean swim, which is well marked with buoys, followed by a 25K bike
+        course and 5K run that takes you along the coastline. The roads are wide and completely
+        closed to traffic—very safe! The course is mostly flat with a couple of rolling areas.
+    </string>
+
+    <!-- Attraction info for Kia Classic -->
+    <string name="kiaclassic_name">Kia Classic</string>
+    <string name="kiaclassic_address">7100 Aviara Resort Drive, Carlsbad, CA 921011</string>
+    <string name="kiaclassic_description">The KIA Classic is a four-day, 72-hole stroke play
+        competition, preceded by a one-day, 18-hole Pro-Am and will be attended by 144 LPGA
+        professionals. The tournament is in March at the beautiful Aviara Golf Club.</string>
+
+    <!-- Attraction info for Carlsbad Grand Prix -->
+    <string name="grandprix_name">Carlsbad Grand Prix</string>
+    <string name="grandprix_address">Armada Drive Carlsbad, CA 92008</string>
+    <string name="grandprix_description">The Carlsbad Grand Prix is a cycling criterium circuit
+        along a 0.9 mile closed course that loops through Armada Drive and Fleet Street in Carlsbad.
+        The finish boasts a sweeping view of the Pacific Ocean. This full day of races features more
+        than 700 junior, amateur, and professional cyclists competing in timed races for prizes
+        and/or cash in front of 2,000 spectators. Additionally, the Kids Fun Race will host over 100
+        entrants. Races start at 7:00am and finish in the late afternoon. Spectating and expo is
+        free and open to the public.</string>
+
+    <!-- Attraction info for Carlsbad 5000 -->
+    <string name="carlsbad5000_name">Carlsbad 5000</string>
+    <string name="carlsbad5000_address">9477 Waples St., Ste. 150, San Diego, CA 92121</string>
+    <string name="carlsbad5000_description">The Carlsbad 5000 features a fast and fun seaside course
+        where 16 world records have been set. Both rookie runners and serious speedsters alike enjoy
+        running or walking in one of seven people’s races.\n\nEach year approximately 11,500
+        spectators and 8,500 participants from all over the United States and many foreign
+        countries. The Junior Carlsbad race annually draws 6,500 spectators and more than 3,500
+        participants ages 12 and under.</string>
+
+    <!-- Variables Items -->
+    <string name="name_var">placeName</string>
+    <string name="address_var">placeAddress</string>
+    <string name="desc_var">placeDescription</string>
+    <string name="img_var">placeImage</string>
+    <string name="more">More info</string>
+    <string name="site_var">placeSite</string>
+    <string name="loc_var">placeLocation</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
