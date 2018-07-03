@@ -25,10 +25,10 @@ public class SportsFragment extends Fragment {
         View view = inflater.inflate(R.layout.list, container, false);
 
 
-        //Create the ArrayList for the places
+        //Create the ArrayList for the sections
         ArrayList<Place> places = new ArrayList<Place>();
 
-        //Add the places to the ArrayList
+        //Add the sections to the ArrayList
         places.add(new Place(getString(R.string.marathon_name), getString(R.string.marathon_address),
                 getString(R.string.marathon_description), R.drawable.marathon));
         places.add(new Place(getString(R.string.carlsbadtriathlon_name), getString(R.string.carlsbadtriathlon_address),
@@ -40,7 +40,7 @@ public class SportsFragment extends Fragment {
         places.add(new Place(getString(R.string.carlsbad5000_name), getString(R.string.carlsbad5000_address),
                 getString(R.string.carlsbad5000_description), R.drawable.carlsbad5000));
 
-        //Set the adapter for the places
+        //Set the adapter for the sections
         PlaceAdapter adapter = new PlaceAdapter(getActivity(), places);
 
         ListView listView = (ListView) view.findViewById(R.id.place_list);

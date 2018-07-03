@@ -2,7 +2,6 @@ package com.example.android.tourguideapp;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-import android.view.Window;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -11,7 +10,7 @@ public class PlaceDetailsActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_place_details);
+        setContentView(R.layout.section_details);
 
         //Get the properties of the Place Object from the intent
         Bundle b = getIntent().getExtras();
@@ -26,19 +25,19 @@ public class PlaceDetailsActivity extends AppCompatActivity {
         //Activate Up Button to enable the navigation back to the MainActivity
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
-        //Set the image to the ImageView in the activity_place_details.xml
+        //Set the image to the ImageView in the section_details
         ImageView imageView = (ImageView) findViewById(R.id.detailed_image);
         imageView.setImageResource(placeImage);
 
-        //Set the name to the TextView in the activity_place_details.xml
+        //Set the name to the TextView in the section_details.xmlils.xml
         TextView nameTextView = (TextView) findViewById(R.id.detailed_name);
         nameTextView.setText(placeName);
 
-        //Set the address to the TextView in the activity_place_details.xml
+        //Set the address to the TextView in the section_details
         TextView addressTextView = (TextView) findViewById(R.id.detailed_address);
         addressTextView.setText(placeAddress);
 
-        //Set the description to the TextView in the activity_place_details.xml
+        //Set the description to the TextView in the section_details
         TextView descriptionTextView = (TextView) findViewById(R.id.detailed_desc);
         descriptionTextView.setText(placeDescription);
 

@@ -23,10 +23,10 @@ public class RestaurantsFragment extends Fragment {
         View view = inflater.inflate(R.layout.list, container, false);
 
 
-        //Create the ArrayList for the places
+        //Create the ArrayList for the sections
         ArrayList<Place> places = new ArrayList<Place>();
 
-        //Add the places to the ArrayList
+        //Add the sections to the ArrayList
         places.add(new Place(getString(R.string.karlstrauss_name), getString(R.string.karlstrauss_address),
                 getString(R.string.karlstrauss_description), R.drawable.karlstrauss));
         places.add(new Place(getString(R.string.ignitebistro_name), getString(R.string.ignitebistro_address),
@@ -49,7 +49,7 @@ public class RestaurantsFragment extends Fragment {
                 getString(R.string.ciciottis_description), R.drawable.cicciottis));
 
 
-        //Set the adapter for the places
+        //Set the adapter for the sections
         PlaceAdapter adapter = new PlaceAdapter(getActivity(), places);
 
         ListView listView = (ListView) view.findViewById(R.id.place_list);

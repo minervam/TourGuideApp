@@ -22,10 +22,10 @@ public class ShoppingFragment extends Fragment {
 
         View view = inflater.inflate(R.layout.list, container, false);
 
-        //Create the ArrayList for the places
+        //Create the ArrayList for the sections
         ArrayList<Place> places = new ArrayList<Place>();
 
-        //Add the places to the ArrayList
+        //Add the sections to the ArrayList
         places.add(new Place(getString(R.string.premiumoutlets_name), getString(R.string.premiumoutlets_address),
                 getString(R.string.premiumoutlets_description), R.drawable.premiumoutlets));
         places.add(new Place(getString(R.string.theforum_name), getString(R.string.theforum_address),
@@ -39,7 +39,7 @@ public class ShoppingFragment extends Fragment {
         places.add(new Place(getString(R.string.villageassoc_name), getString(R.string.villageassoc_address),
                 getString(R.string.villageassoc_description), R.drawable.villageassoc));
 
-        //Set the adapter for the places
+        //Set the adapter for the sections
         PlaceAdapter adapter = new PlaceAdapter(getActivity(), places);
 
         ListView listView = (ListView) view.findViewById(R.id.place_list);

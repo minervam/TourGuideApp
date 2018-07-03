@@ -63,7 +63,7 @@
 
     <!-- Attraction info for Flower Fields -->
     <string name="flowerfields_name">The Flower Fields at Carlsbad Ranch</string>
-    <string name="flowerfields_address">The Flower Fields at Carlsbad Ranch</string>
+    <string name="flowerfields_address">5704 Paseo del Norte, Carlsbad, CA 92008</string>
     <string name="flowerfields_description">The Flower Fields at Carlsbad Ranch is a fifty-acre
         dazzling rainbow of beautiful ranunculus flowers set on a hillside overlooking the striking
         Carlsbad, California coastline. The outdoor space is idyllic for planning weddings, events
@@ -81,16 +81,16 @@
     <!-- Attraction info for Gemological Institute of America (GIA) -->
     <string name="gia_name">Gemological Institute of America (GIA)</string>
     <string name="gia_address">5345 Armada Drive, Carlsbad, CA 92008</string>
-    <string name="gia_description">descriptionofattraction Established in 1931 by Robert M. Shipley,
-    the Gemological Institute of America (GIA) in Carlsbad, CA, is the world’s leading authority and
-    educator on diamonds, colored stones, and pearls.\n\nVisitors to the GIA headquarters have an
-    opportunity to learn about the Institute’s world-renowned educational programs, explore gem and
-    jewelry exhibits, visit the Richard T. Liddicoat Gemological Library &amp; Information Center and
-    see the Tower of Brilliance; the world’s largest crystal octahedron.\n\nThe center is dedicated
-    to educating, researching and understanding gemstones, and protecting potential jewelry buyers
-    by setting quality standards on a global level.\n\nTo schedule and individual or group tour to
-    the Gemological Institute of America, please email or call 800-421-7250 ext 4116 or
-    760-603-4116.</string>
+    <string name="gia_description">Established in 1931 by Robert M. Shipley, the Gemological
+        Institute of America (GIA) in Carlsbad, CA, is the world’s leading authority and educator on
+        diamonds, colored stones, and pearls.\n\nVisitors to the GIA headquarters have an
+        opportunity to learn about the Institute’s world-renowned educational programs, explore gem
+        and jewelry exhibits, visit the Richard T. Liddicoat Gemological Library &amp; Information
+        Center and see the Tower of Brilliance; the world’s largest crystal octahedron.\n\nThe
+        center is dedicated to educating, researching and understanding gemstones, and protecting
+        potential jewelry buyers by setting quality standards on a global level.\n\nTo schedule and
+        individual or group tour to the Gemological Institute of America, please email or call
+        800-421-7250 ext 4116 or 760-603-4116.</string>
 
     <!-- Attraction info for Museum of Making Music -->
     <string name="musicmuseum_name">Museum of Making Music</string>
@@ -155,14 +155,14 @@
 
     <!-- Attraction info for Casa De Bandini Mexican Restaurant -->
     <string name="casadebandini_name">Casa De Bandini Mexican Restaurant</string>
-    <string name="casadebandini_address">RestaurantAddress</string>
+    <string name="casadebandini_address">1901 Calle Barcelona, Carlsbad, CA 92009</string>
     <string name="casadebandini_description">Festive eatery serves classic Mexican cuisine in a
         colorful dining room with roving mariachi bands.</string>
 
     <!-- Attraction info for Nozomi Japanese Fusion -->
     <string name="nozomi_name">Nozomi Japanese Fusion</string>
     <string name="nozomi_address">3050 Pio Pico Dr, Carlsbad, CA 92008</string>
-    <string name="nozomi_description">Serving Asian fusion plates &amp; sushi amid a zen-line
+    <string name="nozomi_description">Serving Asian fusion plates &amp; sushi amid a zen-like
         atmosphere complete with bamboo &amp; waterfalls.</string>
 
     <!-- Attraction info for Pizza Port Brewery & Restaurant -->
@@ -389,6 +389,4 @@
     <string name="more">More info</string>
     <string name="site_var">placeSite</string>
     <string name="loc_var">placeLocation</string>
-
-    <string name="action_settings">Settings</string>
 </resources>

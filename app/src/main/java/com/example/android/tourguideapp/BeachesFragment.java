@@ -25,10 +25,10 @@ public class BeachesFragment extends Fragment {
         View view = inflater.inflate(R.layout.list, container, false);
 
 
-        //Create the ArrayList for the places
+        //Create the ArrayList for the sections
         ArrayList<Place> places = new ArrayList<Place>();
 
-        //Add the places to the ArrayList
+        //Add the sections to the ArrayList
         places.add(new Place(getString(R.string.ponto_name), getString(R.string.ponto_address),
                 getString(R.string.ponto_description), R.drawable.ponto));
         places.add(new Place(getString(R.string.tamarack_name), getString(R.string.tamarack_address),
@@ -41,7 +41,7 @@ public class BeachesFragment extends Fragment {
                 getString(R.string.terramar_description), R.drawable.terramar));
 
 
-        //Set the adapter for the places
+        //Set the adapter for the sections
         PlaceAdapter adapter = new PlaceAdapter(getActivity(), places);
 
         ListView listView = (ListView) view.findViewById(R.id.place_list);

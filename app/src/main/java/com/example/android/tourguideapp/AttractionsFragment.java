@@ -23,10 +23,10 @@ public class AttractionsFragment extends Fragment {
         View view = inflater.inflate(R.layout.list, container, false);
 
 
-        //Create the ArrayList for the places
+        //Create the ArrayList for the sections
         ArrayList<Place> places = new ArrayList<Place>();
 
-        //Add the places to the ArrayList
+        //Add the sections to the ArrayList
         places.add(new Place(getString(R.string.legoland_name), getString(R.string.legoland_address),
                 getString(R.string.legoland_description), R.drawable.legoland));
         places.add(new Place(getString(R.string.sealife_name), getString(R.string.sealife_address),
@@ -42,7 +42,7 @@ public class AttractionsFragment extends Fragment {
         places.add(new Place(getString(R.string.leocarillo_name), getString(R.string.leocarillo_address),
                 getString(R.string.leocarillo_description), R.drawable.leocarillo));
 
-        //Set the adapter for the places
+        //Set the adapter for the sections
         PlaceAdapter adapter = new PlaceAdapter(getActivity(), places);
 
         ListView listView = (ListView) view.findViewById(R.id.place_list);
